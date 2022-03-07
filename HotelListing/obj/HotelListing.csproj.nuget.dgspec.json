@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raggardy\\source\\repos\\HotelListing\\HotelListing\\HotelListing.csproj": {}
+    "C:\\Users\\dp161\\Desktop\\HotelListing\\HotelListing\\HotelListing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raggardy\\source\\repos\\HotelListing\\HotelListing\\HotelListing.csproj": {
+    "C:\\Users\\dp161\\Desktop\\HotelListing\\HotelListing\\HotelListing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raggardy\\source\\repos\\HotelListing\\HotelListing\\HotelListing.csproj",
+        "projectUniqueName": "C:\\Users\\dp161\\Desktop\\HotelListing\\HotelListing\\HotelListing.csproj",
         "projectName": "HotelListing",
-        "projectPath": "C:\\Users\\Raggardy\\source\\repos\\HotelListing\\HotelListing\\HotelListing.csproj",
-        "packagesPath": "C:\\Users\\Raggardy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raggardy\\source\\repos\\HotelListing\\HotelListing\\obj\\",
+        "projectPath": "C:\\Users\\dp161\\Desktop\\HotelListing\\HotelListing\\HotelListing.csproj",
+        "packagesPath": "C:\\Users\\dp161\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dp161\\Desktop\\HotelListing\\HotelListing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Raggardy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dp161\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,28 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
             "Serilog.AspNetCore": {
               "target": "Package",
               "version": "[5.0.0, )"
@@ -67,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
