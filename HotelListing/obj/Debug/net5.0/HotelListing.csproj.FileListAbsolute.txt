@@ -138,3 +138,12 @@ C:\Users\dp161\Desktop\HotelListing\HotelListing\obj\Debug\net5.0\refint\HotelLi
 C:\Users\dp161\Desktop\HotelListing\HotelListing\obj\Debug\net5.0\HotelListing.pdb
 C:\Users\dp161\Desktop\HotelListing\HotelListing\obj\Debug\net5.0\HotelListing.genruntimeconfig.cache
 C:\Users\dp161\Desktop\HotelListing\HotelListing\obj\Debug\net5.0\ref\HotelListing.dll
+C:\Users\dp161\Desktop\HotelListing\HotelListing\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\dp161\Desktop\HotelListing\HotelListing\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dp161\Desktop\HotelListing\HotelListing\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dp161\Desktop\HotelListing\HotelListing\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\dp161\Desktop\HotelListing\HotelListing\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dp161\Desktop\HotelListing\HotelListing\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dp161\Desktop\HotelListing\HotelListing\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\dp161\Desktop\HotelListing\HotelListing\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\dp161\Desktop\HotelListing\HotelListing\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
